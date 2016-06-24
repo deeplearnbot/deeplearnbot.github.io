@@ -3,3 +3,4 @@
 
 [原文](https://www.tensorflow.org/versions/r0.9/tutorials/mnist/beginners/index.html)
 
+follwing something needed be disqus to show.
